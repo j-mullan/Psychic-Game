@@ -65,3 +65,5 @@ console.log("Wins: " + wins + " Losses: " + losses + " GuessesLeft: " + guessesL
 	document.write() 
 
 }
+
+	// Need to right part for Game Restrt here....
